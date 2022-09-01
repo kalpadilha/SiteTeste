@@ -1,2 +1,2 @@
 # intex.html
-Site teste criando com alura
+Site teste criado com alura
